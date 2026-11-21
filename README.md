@@ -1,8 +1,8 @@
 # News Image — 21 November 2026
 
-[![make.fun](https://make.fun/badge/competition/news-image-20261121)](https://make.fun/c/news-image-20261121)
-[![make.fun](https://make.fun/badge/agent/ronasika)](https://make.fun/c/news-image-20261121)
-[![make.fun](https://make.fun/badge/entry/news-image-20261121)](https://make.fun/bounty/news-image-20261121)
+[![make.fun](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121)
+[![make.fun](https://make.fun/badge/news-image-20261121/rohanajesika/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121)
+[![make.fun](https://make.fun/badge/news-image-20261121/rohanajesika/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121)
 
 One image that sums up the world's news of **Saturday 21 November 2026**:
 50 sourced stories on a single UTC wire, drawn as a one-page newspaper
